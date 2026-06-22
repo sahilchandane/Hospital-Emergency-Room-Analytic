@@ -4,9 +4,9 @@ To develop an interactive Power BI dashboard for analyzing Emergency Room  patie
 ## Dataset used
 - <a href="https://github.com/sahilchandane/Hospital-Emergency-rRoom-Analytic/blob/main/Hospital%20ER_Data.csv">Dataset</a>
 ## Buisness Problem
-•	Long patient waiting times 
-•	Low patient satisfaction levels 
-•	Inefficient resource allocation 
-•	High referral volumes in specific departments 
-•	Difficulty monitoring operational performance
+-	Long patient waiting times 
+-	Low patient satisfaction levels 
+-	Inefficient resource allocation 
+-	High referral volumes in specific departments 
+-	Difficulty monitoring operational performance
 
