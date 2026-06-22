@@ -23,5 +23,5 @@ To develop an interactive Power BI dashboard for analyzing Emergency Room  patie
 - Corrected data types
 - Created custom DAX measures
 ## Dashboard
-- <a href="<a 
+- <a href="https://github.com/sahilchandane/Hospital-Emergency-rRoom-Analytic/blob/main/healthcare%20metric%20project%201.pbix">Dashboard link</a>
 
